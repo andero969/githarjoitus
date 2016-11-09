@@ -11,7 +11,8 @@ githubissa varaston HTTPS osoitteen ja kloonaamalla sen koneeseeni komennolla:
 tiedostoon testi tekstiä ja tallensin sen. Seuraavaksi synkronoin git varaston aluksi komennolla "git add ." ja sen jälkeen 
 "git commit" johon kirjoitin "Added README.md file". Vielä tein "git pull" komennon ja "git push" komennon johon piti kirjoittaa 
 Github käyttäjänimeni ja salasana. Synkronointi onnistui, koska README.md tiedosto tuli refreshauksen jälkeen näkyviin Githubissa.
-Tämän jälkeen kirjoitin README.md tiedostoon tämän kyseisen raportin. 
+Tämän jälkeen kirjoitin README.md tiedostoon tämän kyseisen raportin. Lisäsin vielä git-varastooni init.pp tiedoston, josta löytyy 
+puppet modulini. 
 
 ##Lähteet
 http://terokarvinen.com/2016/aikataulu-palvelinten-hallinta-ict4tn022-1-5-op-uusi-ops-loppusyksy-2016
