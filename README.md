@@ -15,5 +15,7 @@ Tämän jälkeen kirjoitin README.md tiedostoon tämän kyseisen raportin.
 
 ##Lähteet
 http://terokarvinen.com/2016/aikataulu-palvelinten-hallinta-ict4tn022-1-5-op-uusi-ops-loppusyksy-2016
+
 http://terokarvinen.com/2016/publish-your-project-with-github
+
 www.github.com
