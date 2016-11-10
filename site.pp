@@ -1,0 +1,2 @@
+class {facter:}
+class {uptime:}
